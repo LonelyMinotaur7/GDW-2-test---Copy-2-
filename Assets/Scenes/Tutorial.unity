@@ -16653,6 +16653,10 @@ PrefabInstance:
       propertyPath: orthographic size
       value: 7.16
       objectReference: {fileID: 0}
+    - target: {fileID: 7531395668380321499, guid: 0fc1617914e68ce46b2c8c303f403003, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7531395668619240483, guid: 0fc1617914e68ce46b2c8c303f403003, type: 3}
       propertyPath: m_Name
       value: Player Variant
